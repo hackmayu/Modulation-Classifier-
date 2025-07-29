@@ -3,10 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 [![Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-orange?logo=googlecolab)](https://colab.research.google.com/)
-[![Stars](https://img.shields.io/github/stars/mayurjalan/modulation-classifier?style=social)](https://github.com/mayurjalan/modulation-classifier/stargazers)
-[![Forks](https://img.shields.io/github/forks/mayurjalan/modulation-classifier?style=social)](https://github.com/mayurjalan/modulation-classifier/network/members)
-[![Issues](https://img.shields.io/github/issues/mayurjalan/modulation-classifier?color=blue)](https://github.com/mayurjalan/modulation-classifier/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/mayurjalan/modulation-classifier)](https://github.com/mayurjalan/modulation-classifier/commits/main)
+
 
 
 ---
